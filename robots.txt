@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--dolphin-hg6p57e8y1k.com/sitemap.xml
